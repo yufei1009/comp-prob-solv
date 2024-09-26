@@ -8,7 +8,7 @@
   
 ## B2V for Square-Well Potential
 
-**The square-well potential as a sharp discontinuity at the distance of sigma and lambda-sigma, which introduces both attractive and repulsive interactions.** At low temperatures, the attractive interactions dominate, causing **negative values of B2V**. As temperature increases, the influence of the repulsive interaction becomes more pronounced, resulting in a transition to** positive B2V values at higher temperatures.**
+**The square-well potential has a sharp discontinuity at the distance of sigma and lambda-sigma, which introduces both attractive and repulsive interactions.** At low temperatures, the attractive interactions dominate, causing **negative values of B2V**. As temperature increases, the influence of the repulsive interaction becomes more pronounced, resulting in a transition to** positive B2V values at higher temperatures.**
   
 
 ## B2V for Lennard-Jones Potential
